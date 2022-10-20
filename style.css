@@ -1,0 +1,37 @@
+h1 {
+    text-align:center;
+    font-size: 40px;
+    color: palevioletred;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 25px;
+}
+
+.centerDiv {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+body {
+    background-color:bisque;
+}
+
+h2 {
+    color: rgb(255, 171, 185);
+    display: inline-block;
+}
+
+.textDeco {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding-top: 10px;
+}
